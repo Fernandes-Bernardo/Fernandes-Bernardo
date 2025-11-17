@@ -14,7 +14,6 @@
 ## 📮 Reach me
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-fernandes-pereira-394872353)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardofpdev@gmail.com)
 
 </div>
@@ -24,7 +23,7 @@
 ## 👾 My Tech Stack
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,javascript,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
