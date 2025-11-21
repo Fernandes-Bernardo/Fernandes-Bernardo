@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=761CD0&height=120&section=header"/>
 
 <div align="center">
 
@@ -29,11 +29,24 @@
 
 ---
 
-<div align="center">
+## 📊 GitHub Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandes-Bernardo&theme=tokyonight&layout=donut&hide=css,html,scss,json&count_private=true&size_weight=0.5&count_weight=0.5)
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Fernandes-Bernardo&show_icons=true&theme=tokyonight&hide_border=true&title_color=d765d0&icon_color=d765d0"
+      />
+    </td>
+    <td>
+      <img 
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandes-Bernardo&theme=tokyonight&layout=donut&hide=css,html,scss,json&count_private=true&size_weight=0.5&count_weight=0.5"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
